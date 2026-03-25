@@ -38,10 +38,7 @@ var1 = 100 ?? 98 ?? 78
 var1 = null ?? 8 ?? 20
 console.log(var1)
 
-
-
 // Terniary operator
 // condition ? true : false
-
  const tea = 800
  tea >= 700 ? console.log("tea is greater than 700"): console.log("tea is less than 700")
